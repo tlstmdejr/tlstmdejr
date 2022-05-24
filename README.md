@@ -19,7 +19,9 @@
 <h3 align="center">🤔Interests🤔 </h3> 
 
 ### Currently, I am interested in game development, cloud server, and ai
-### game development, cloud server, and ai
+### Therefore, I am studying columns and languages related to the above
+
+*****
 
 
    
