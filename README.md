@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=450&section=header&text=HELLO,%20WORLD!&fontSize=55&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=350&section=header&text=HELLO,%20WORLD!&fontSize=55&fontColor=FFFFFF" />
 
 ### 👋Hello, I am Seungdeok Shin and I am majoring in Information and Communication at Semyung University.
 
@@ -24,8 +24,20 @@
 *****
 
 <h3 align="center">👨‍🎓Goals👨‍🎓 </h3>
+
 ### My goal until graduation is to get a certificate of Engineer Information Processing
 ### and to make my portfolio sound about the technology I want to do
+
+*****
+
+<h3 align="center">🥰Hobby🥰 </h3>
+
+### When I rest, I often watch SF animation or SF movie as a hobby. 
+### I enjoy playing basketball
+
+### favorite
+
+<img src="/path/to/img.jpg" width="450px" height="300px"  alt="RubberDuck"></img><br/>
 
 *****
 
