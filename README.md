@@ -37,7 +37,7 @@
 
 ### favorite
 
-<img src="https://resize.cdn.otakumode.com/full/u/e43c21991d824f7b864e6e82f663ce14.jpg" width="25%" height="25%">
+<img src="https://resize.cdn.otakumode.com/full/u/e43c21991d824f7b864e6e82f663ce14.jpg" width="25%" height="25%"> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 *****
 
