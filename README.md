@@ -2,6 +2,8 @@
 
 ---
 
+##Hello, I am Seungdeok Shin and I am majoring in Information and Communication at Semyung University.
+
 ---
 
  👋
