@@ -5,4 +5,4 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=red"/>
 
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=00BFFF&height=450&section=header&text=HELLO,%20WORLD!&fontSize=55&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&reversal=false&color=00BFFF&height=450&section=header&text=HELLO,%20WORLD!&fontSize=55&fontColor=FFFFFF" />
