@@ -6,3 +6,4 @@
 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=00BFFF&height=450&section=header&text=HELLO,%20WORLD!&fontSize=55&fontColor=FFFFFF" />
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
