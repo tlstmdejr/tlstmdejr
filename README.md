@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=450&section=header&text=HELLO,%20WORLD!&fontSize=55&fontColor=FFFFFF" />
 ## Hello, I am Seungdeok Shin and I am majoring in Information and Communication at Semyung University.
+
 # This is a H1
- 👋
+
+👋
  💻
 <p> 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow"/>
