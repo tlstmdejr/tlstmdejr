@@ -13,7 +13,7 @@
 <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=yellow"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 </p>
-Engineer Information Processing
+
 *****
 
 <h3 align="center">🤔Interests🤔 </h3> 
