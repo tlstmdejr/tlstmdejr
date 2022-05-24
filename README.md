@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=450&section=header&text=seungduck%20&fontSize=55&desc=hi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=450&section=header&text=HELLO,%20WORLD!&fontSize=55&desc=" />
 ![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 <p> 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow"/>
