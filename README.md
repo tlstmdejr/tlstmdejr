@@ -37,7 +37,7 @@
 
 ### favorite
 
-<img src="/path/to/img.jpg" width="450px" height="300px"  alt="RubberDuck"></img><br/>
+<img src="https://resize.cdn.otakumode.com/full/u/e43c21991d824f7b864e6e82f663ce14.jpg" width="200%" height="200%">
 
 *****
 
