@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=450&section=header&text=HELLO,%20WORLD!&fontSize=55&fontColor=FFFFFF" />
 
-===
+*****
 
 ## Hello, I am Seungdeok Shin and I am majoring in Information and Communication at Semyung University.
 
