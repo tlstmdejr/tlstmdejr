@@ -37,7 +37,7 @@
 
 ### favorite
 
-<img src="https://resize.cdn.otakumode.com/full/u/e43c21991d824f7b864e6e82f663ce14.jpg" width="200%" height="200%">
+<img src="https://resize.cdn.otakumode.com/full/u/e43c21991d824f7b864e6e82f663ce14.jpg" width="75%" height="75%">
 
 *****
 
